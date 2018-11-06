@@ -4,7 +4,7 @@ public class GoodTest {
 
 	public static void main(String[] args) {
 		System.out.println("hot_fix change GoodTest");
-
+		System.out.println("hot_fix test..........");
 	}
 
 }
